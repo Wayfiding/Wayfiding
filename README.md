@@ -1,12 +1,12 @@
 #Alberto Júnior
 
 
-## Hi there 👋
+## Olá! 👋
 
 Sou um administrador de sistemas com conhecimento em Sistemas Operacionais Linux e Windows, conhecimento em dispositivos de redes como switches e routers. 
 Sou um desenvolvedor Front-End com conhecimento em HTML5,CSS3 e JS. 
 
-Além disso possuo conhecimentos de automação em Bash para Sistemas Linux.
+Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e toda infraestrutura de um sistema incluindo cybersecurity.
 
 
 
