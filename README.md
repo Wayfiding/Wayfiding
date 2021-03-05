@@ -13,7 +13,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 
 
  
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ![Image of coding] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaawfoundation.org%2Fcoding-tips-for-beginners%2F&psig=AOvVaw2zQ-Hg7TlSNqoB7ccvvxbJ&ust=1615050942642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiew-rTme8CFQAAAAAdAAAAABAR)
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ![Image of coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwaawfoundation.org%2Fcoding-tips-for-beginners%2F&psig=AOvVaw2zQ-Hg7TlSNqoB7ccvvxbJ&ust=1615050942642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiew-rTme8CFQAAAAAdAAAAABAR)
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  
 
