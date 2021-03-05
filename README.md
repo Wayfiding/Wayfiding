@@ -23,7 +23,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wayfiding&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wayfiding&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Glad to See You here!Count](http://hits.dwyl.com/wayfiding/wayfiding.svg)](http://hits.dwyl.com/Wayfiding/Wayfiding)
 <!--
