@@ -1,12 +1,12 @@
 # Alberto Júnior
 
 
-### Olá! 👋
+### Hello! 👋
 
-Sou um administrador de sistemas com conhecimento em Sistemas Operacionais Linux e Windows, conhecimento em dispositivos de redes como switches e routers. 
-Sou um desenvolvedor Front-End Junior com conhecimento em HTML5,CSS3 e JS. 
+I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. 
+I can also work as Front-End Developer which I have knowledge of HTML5,CSS and JS. 
 
-Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e toda infraestrutura de um sistema incluindo cybersecurity.
+I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity.
 
 
 <p float="left">
@@ -30,7 +30,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
 
 
-## Contato
+## Contacts
  <br/> :email: &nbsp; Entre em contato comigo:
  [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
 | 
