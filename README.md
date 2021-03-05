@@ -13,7 +13,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 
 
  
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ![Image of coding](https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75)
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ![Image of coding](https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75) Format: ![Alt Text](url)
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  
 
