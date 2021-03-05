@@ -22,7 +22,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 [![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com)
 
 
-[![HitCount](http://hits.dwyl.com/wayfiding/wayfiding.svg)](http://hits.dwyl.com/wayfiding/wayfiding)
+[![Glad to See You here!Count](http://hits.dwyl.com/wayfiding/wayfiding.svg)](http://hits.dwyl.com/wayfiding/wayfiding)
 <!--
 **Wayfiding/Wayfiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
