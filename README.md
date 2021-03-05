@@ -11,8 +11,8 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
 
 <p float="left">
  <img align="right" src="https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75" width="250" height="100" /> 
-  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
-  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects 
+  <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox 
   
   
   
