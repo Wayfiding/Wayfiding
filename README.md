@@ -9,12 +9,15 @@ Sou um desenvolvedor Front-End Junior com conhecimento em HTML5,CSS3 e JS.
 Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e toda infraestrutura de um sistema incluindo cybersecurity.
 
 
+<p float="left">
+ <img align="right" src="https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75" width="250" height="100" /> 
+  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
+  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+  
+  
+  
+</p>
 
-
-
- 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ![Image of coding](https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75) Format: ![Alt Text](url)
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  
 
 
