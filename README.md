@@ -21,8 +21,10 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 
 
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wayfiding&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="160em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayfiding&theme=dark&show_icons=true)" />
+
 <!--START_SECTION:waka-->
+
 ```text
 TypeScript   26 hrs 2 mins   ███████████████████▓░░░░░   78.01 % 
 Bash         3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
@@ -30,6 +32,7 @@ CSS          2 hrs 41 mins   ██░░░░░░░░░░░░░░░
 Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
+
 <!--END_SECTION:waka-->
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
