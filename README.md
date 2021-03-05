@@ -22,6 +22,8 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertoJr&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
 <!--START_SECTION:waka-->
 
