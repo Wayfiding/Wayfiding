@@ -1,4 +1,4 @@
-#Alberto Júnior
+# Alberto Júnior
 
 
 ## Olá! 👋
@@ -18,7 +18,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
  
 
 
-
+# Status
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
