@@ -25,17 +25,7 @@ Além disso possuo conhecimentos de automação em Bash para Sistemas Linux e to
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayfiding&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
-<!--START_SECTION:waka-->
 
-```text
-TypeScript   26 hrs 2 mins   ███████████████████▓░░░░░   78.01 % 
-Bash         3 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-CSS          2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-<!--END_SECTION:waka-->
 
  <br/> :email: &nbsp; Entre em contato comigo:
  [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
