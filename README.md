@@ -30,11 +30,13 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayfiding&theme=dark&show_icons=true&v2=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills 
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+ ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
  
- ![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![SQL server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | 
+ ![Code Warrior Badge](https://www.codewars.com/users/Albertojr/badges/large)
+ 
+ ![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQL server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
  ### SO's
   ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
@@ -46,6 +48,7 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
  [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com) | ![WhatsappBadge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 
 ### Glad To see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.Wayfiding}.${your.repo.id})
