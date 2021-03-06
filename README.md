@@ -47,7 +47,7 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
  <br/> :email: &nbsp; Entre em contato comigo:
  [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com) | ![WhatsappBadge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com) | [![WhatsappBadge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/36dpdk)](https://wa.link/36dpdk)
 
 
 
