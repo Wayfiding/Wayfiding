@@ -34,7 +34,7 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
 
  ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
  
- ![Code Warrior Badge](https://www.codewars.com/users/Albertojr/badges/large)
+
  
  ![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![SQL server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
  ### SO's
@@ -52,6 +52,9 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
 
 
 ### Glad To see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.Wayfiding}.${your.repo.id})
+
+
+ ![Code Warrior Badge](https://www.codewars.com/users/Albertojr/badges/large)
 <!--
 **Wayfiding/Wayfiding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
