@@ -27,7 +27,7 @@ I Still have knowledge of Bash scripts for automation Linux OS,all network infra
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/Wayfiding/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayfiding&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wayfiding&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Contacts
