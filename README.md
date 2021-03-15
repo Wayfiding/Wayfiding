@@ -5,13 +5,13 @@
 ### Hello! 👋
 
 <p float="left">
- <img align="right" src="https://danbooru.donmai.us/data/sample/__lucca_ashtear_and_robo_chrono_trigger_drawn_by_hosodayo__sample-bed1d8c32591d5edd5dee39be2da27e7.jpg" width="350" height="250" /> 
+ <img align="right" src="https://danbooru.donmai.us/data/sample/__lucca_ashtear_and_robo_chrono_trigger_drawn_by_hosodayo__sample-bed1d8c32591d5edd5dee39be2da27e7.jpg" width="350" height="300" /> 
  <ul>
  <li>I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
   
  <li> I can also work as Front-End Developer which I have knowledge of HTML5,CSS and JS.  </li>
 
-  <li> I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
+  <li> I still have knowledge of Bash and Python scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
 <li> As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can repair Computers and install hardware too.  </li>
   <li> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects </li>
