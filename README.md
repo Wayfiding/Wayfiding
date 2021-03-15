@@ -8,7 +8,7 @@
 
  * I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. 
 
-* As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can 
+* As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can repair Computers and install hardware too.
 
 
 <p float="left">
