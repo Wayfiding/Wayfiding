@@ -2,14 +2,18 @@
 
 
 ### Hello! 👋
+<p float="left">
+ <ul>
+ <li>I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
+  
+ <li> I can also work as Front-End Developer which I have knowledge of HTML5,CSS and JS.  </li>
 
-* I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. 
-* I can also work as Front-End Developer which I have knowledge of HTML5,CSS and JS. 
+  <li> I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
- * I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. 
+<li> As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can repair Computers and install hardware too.  </li>
+</ul>
 
-* As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can repair Computers and install hardware too.
-
+</p>
 
 <p float="left">
  <img align="right" src="https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75" width="250" height="100" /> 
