@@ -1,8 +1,11 @@
 # Alberto Júnior
 
 
+
 ### Hello! 👋
+
 <p float="left">
+ <img align="right" src="https://danbooru.donmai.us/data/sample/__lucca_ashtear_and_robo_chrono_trigger_drawn_by_hosodayo__sample-bed1d8c32591d5edd5dee39be2da27e7.jpg" width="350" height="250" /> 
  <ul>
  <li>I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
   
@@ -11,18 +14,13 @@
   <li> I Still have knowledge of Bash scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
 <li> As lover of technolgy I also enjoy playing some gaming on my free time and study PC hardware. I can repair Computers and install hardware too.  </li>
+  <li> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects </li>
+  <li> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox </li>
 </ul>
 
 </p>
 
-<p float="left">
- <img align="right" src="https://futurism.com/_next/image?url=https%3A%2F%2Fwp-assets.futurism.com%2F2020%2F05%2Fsale_25313_primary_image_wide.jpg&w=1080&q=75" width="250" height="100" /> 
-  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects 
-  <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox 
-  
-  
-  
-</p>
+
 
  
 
@@ -55,14 +53,14 @@
 
 ## Contacts
  <br/> :email: &nbsp; **You can contact me by**:
- [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) 
  
-[![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com)  [![WhatsappBadge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/36dpdk)](https://wa.link/36dpdk)
+ [![Linkedin Badge](https://img.shields.io/badge/-AlbertoSouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-souza/)](https://www.linkedin.com/in/alberto-souza/) [![Gmail Badge](https://img.shields.io/badge/-albertodt11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:albertodt11@gmail.com)](mailto:albertodt11@gmail.com)  [![WhatsappBadge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/36dpdk)](https://wa.link/36dpdk)
 
 
+![Code Warrior Badge](https://www.codewars.com/users/Albertojr/badges/large)
 
-### Glad To see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.Wayfiding}.${your.repo.id})  ![Code Warrior Badge](https://www.codewars.com/users/Albertojr/badges/large)
-
+## Glad To see you here!  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.Wayfiding}.${your.repo.id})  
 
  
 <!--
