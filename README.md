@@ -5,7 +5,7 @@
 ### Hello! 👋
 
 <p float="left">
- <img align="right" src="https://danbooru.donmai.us/data/sample/__lucca_ashtear_and_robo_chrono_trigger_drawn_by_hosodayo__sample-bed1d8c32591d5edd5dee39be2da27e7.jpg" width="350" height="300" /> 
+ <img align="right" src="https://danbooru.donmai.us/posts/3940645" width="350" height="300" /> 
  <ul>
  <li>I'm a sysadmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
   
