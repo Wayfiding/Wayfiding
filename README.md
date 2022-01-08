@@ -14,8 +14,8 @@
   <li> I still have knowledge of Bash and Python scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
 <li> As lover of technolgy I also enjoy play some games or reading books on my free time and study PC hardware. I can repair Computers and install hardware too.  </li>
-  <li> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects </li>
-  <li> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox </li>
+  <li> :purple_heart: &nbsp; Seeking to collaborate with developments Project as Junior Development </li>
+  <li> :blush: &nbsp; I can help you versioning and test on Front-End and Back-End. </li>
 </ul>
 
 </p>
