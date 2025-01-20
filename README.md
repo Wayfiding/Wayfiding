@@ -9,7 +9,7 @@
  <ul>
  <li>I'm a Network Enginner and  SysAdmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
   
- <li> I can also work as Front-end and Back-end Developer, which I have knowledge of React Library as Front-End and Flask as Back-End.  </li>
+ <li> I'm also a Software Engineer with knowledge of React Library as Front-End and Flask/Node.JS/Django as Back-End.  </li>
 
   <li> I still have knowledge of Bash and Python scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
