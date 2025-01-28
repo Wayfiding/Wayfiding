@@ -9,7 +9,7 @@
  <ul>
  <li>I'm a Network Enginner and  SysAdmin with knowledge of Linux OS,Windows OS, network devices like: switches,routers and radios. </li>
   
- <li> I'm also a Software Engineer with knowledge of React Library as Front-End and Flask/Node.JS/Django as Back-End.  </li>
+ <li> I'm also a Software Engineer with knowledge of React Library as Front-End and Flask/Node.JS/Django as Back-End. And now also a Developer AI.  </li>
 
   <li> I still have knowledge of Bash and Python scripts for automation Linux OS,all network infrastructure and Cybersecurity. This is part of my professional job which is Networking Computer. </li>
 
@@ -38,7 +38,12 @@
 
 
 ## Skills 
+### IA and Machine Learning Skills
+![Langchain Badge](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
+### Development Skills
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
