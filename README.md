@@ -55,6 +55,15 @@
 **⏱️ Weekly coding activity (WakaTime)**
 
 <!--START_SECTION:waka-->
+
+```txt
+Other         20 hrs 36 mins        ████████████████████░░░░░   80.54 %
+YAML          2 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Jinja2        1 hr 5 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown      1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Terraform     31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+```
+
 <!--END_SECTION:waka-->
 
 
