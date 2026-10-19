@@ -15,6 +15,8 @@
 
 ## 👨‍💻 About me
 
+<img align="right" src="assets/banner.jpg" width="260" alt="Lucca and Robo, Chrono Trigger" />
+
 - 🌐 **Network Engineer & SysAdmin** with solid experience in **Linux and Windows** environments, working with switches, routers and radios.
 - 💻 **Software Engineer** using **React** on the front end and **Flask, Node.js and Django** on the back end.
 - 🤖 Expanding my skills as an **AI Developer**, focused on **Machine Learning** and applied AI solutions.
