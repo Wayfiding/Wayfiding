@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://wakatime.com/badge/user/11304d95-6361-4011-a7bb-2fa8076d1ce4.svg?style=for-the-badge" alt="Total coding time tracked by WakaTime" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/alberto-souza/"><img src="https://img.shields.io/badge/LinkedIn-Alberto_Souza-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:albertodt11@gmail.com"><img src="https://img.shields.io/badge/Gmail-albertodt11@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.link/36dpdk"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
