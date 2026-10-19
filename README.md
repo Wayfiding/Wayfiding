@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wayfiding&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -52,12 +52,11 @@
   <img src="https://streak-stats.demolab.com/?user=Wayfiding&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
----
-
-## ⏱️ Weekly coding activity (WakaTime)
+**⏱️ Weekly coding activity (WakaTime)**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ---
 
